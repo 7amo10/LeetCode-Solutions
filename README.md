@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7amo10/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/7amo10/LeetCode-Solutions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
