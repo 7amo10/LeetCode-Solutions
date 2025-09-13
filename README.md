@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/7amo10/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,11 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/7amo10/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/7amo10/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/7amo10/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/7amo10/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/7amo10/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
