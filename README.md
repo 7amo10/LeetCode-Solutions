@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/7amo10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/7amo10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/7amo10/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/7amo10/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/7amo10/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/7amo10/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/7amo10/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
