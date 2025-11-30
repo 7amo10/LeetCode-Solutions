@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/7amo10/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/7amo10/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/7amo10/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/7amo10/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/7amo10/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/7amo10/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/7amo10/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/7amo10/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/7amo10/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/7amo10/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1694-make-sum-divisible-by-p](https://github.com/7amo10/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/7amo10/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/7amo10/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
