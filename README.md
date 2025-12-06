@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/7amo10/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/7amo10/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/7amo10/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/7amo10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/7amo10/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Math
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/7amo10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/7amo10/LeetCode-Solutions/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/7amo10/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/7amo10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/7amo10/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/7amo10/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/7amo10/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Game Theory
 |  |
 | ------- |
@@ -641,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/7amo10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
