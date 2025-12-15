@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/7amo10/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/7amo10/LeetCode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/7amo10/LeetCode-Solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/7amo10/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/7amo10/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2037-count-square-sum-triples](https://github.com/7amo10/LeetCode-Solutions/tree/master/2037-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/7amo10/LeetCode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/7amo10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/7amo10/LeetCode-Solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/7amo10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/7amo10/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/7amo10/LeetCode-Solutions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/7amo10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
