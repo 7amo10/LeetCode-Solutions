@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/7amo10/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/7amo10/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0981-delete-columns-to-make-sorted](https://github.com/7amo10/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/7amo10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/7amo10/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/7amo10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/7amo10/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/7amo10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/7amo10/LeetCode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/7amo10/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/7amo10/LeetCode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
