@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/7amo10/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/7amo10/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0757-pyramid-transition-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/7amo10/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/7amo10/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0757-pyramid-transition-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/7amo10/LeetCode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/7amo10/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/7amo10/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/7amo10/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0757-pyramid-transition-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/7amo10/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/7amo10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/7amo10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/7amo10/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0679-24-game) |
+| [0757-pyramid-transition-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/7amo10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Brainteaser
