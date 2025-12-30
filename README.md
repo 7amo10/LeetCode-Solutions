@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/7amo10/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/7amo10/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0867-new-21-game) |
+| [0870-magic-squares-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/7amo10/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/7amo10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/7amo10/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0870-magic-squares-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/7amo10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/7amo10/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/7amo10/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/7amo10/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0757-pyramid-transition-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/0757-pyramid-transition-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/7amo10/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/7amo10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/7amo10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/7amo10/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/7amo10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/7amo10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0870-magic-squares-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
