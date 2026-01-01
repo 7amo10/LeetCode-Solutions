@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/7amo10/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/7amo10/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/7amo10/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/7amo10/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/7amo10/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/7amo10/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/7amo10/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
