@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2089-maximum-matrix-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/7amo10/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2164-two-best-non-overlapping-events](https://github.com/7amo10/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/7amo10/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/7amo10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2089-maximum-matrix-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/7amo10/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2089-maximum-matrix-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/7amo10/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/7amo10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
