@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/7amo10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7amo10/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/7amo10/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/7amo10/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/7amo10/LeetCode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/7amo10/LeetCode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
@@ -748,4 +750,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
