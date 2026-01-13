@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3763-separate-squares-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3763-separate-squares-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/7amo10/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/7amo10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3763-separate-squares-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/7amo10/LeetCode-Solutions/tree/master/3827-implement-router) |
