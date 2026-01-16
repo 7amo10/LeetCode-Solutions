@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/7amo10/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/7amo10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/7amo10/LeetCode-Solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/7amo10/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/7amo10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/7amo10/LeetCode-Solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/7amo10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/7amo10/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/7amo10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/7amo10/LeetCode-Solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
