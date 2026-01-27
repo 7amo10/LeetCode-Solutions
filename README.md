@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/7amo10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Binary Search
 |  |
 | ------- |
@@ -822,4 +823,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
