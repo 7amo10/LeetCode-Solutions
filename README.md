@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-minimum-penalty-for-a-shop](https://github.com/7amo10/LeetCode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3396-valid-word](https://github.com/7amo10/LeetCode-Solutions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/7amo10/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/7amo10/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/7amo10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/7amo10/LeetCode-Solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -829,9 +831,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
