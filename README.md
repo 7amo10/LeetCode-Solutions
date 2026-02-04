@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/7amo10/LeetCode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/7amo10/LeetCode-Solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3956-trionic-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3956-trionic-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3897-count-number-of-trapezoids-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/7amo10/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3952-trionic-array-i) |
+| [3956-trionic-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3956-trionic-array-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/7amo10/LeetCode-Solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
