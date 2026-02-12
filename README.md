@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/7amo10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/7amo10/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/7amo10/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
+| [4055-longest-balanced-substring-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/7amo10/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
+| [4055-longest-balanced-substring-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Counting
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/7amo10/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/7amo10/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/7amo10/LeetCode-Solutions/tree/master/3885-count-special-triplets) |
+| [4055-longest-balanced-substring-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Design
 |  |
 | ------- |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/7amo10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [4055-longest-balanced-substring-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Memoization
 |  |
 | ------- |
