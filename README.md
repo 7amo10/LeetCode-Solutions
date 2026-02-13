@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/7amo10/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/7amo10/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 | [4055-longest-balanced-substring-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/7amo10/LeetCode-Solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
+| [4056-longest-balanced-substring-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
 ## Math
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
 ## Counting
 |  |
 | ------- |
