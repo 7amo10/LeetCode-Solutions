@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/7amo10/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/7amo10/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/7amo10/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0757-pyramid-transition-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/7amo10/LeetCode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/7amo10/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/7amo10/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0757-pyramid-transition-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/0757-pyramid-transition-matrix) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/7amo10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
