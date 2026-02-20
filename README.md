@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/7amo10/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0757-pyramid-transition-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/0757-pyramid-transition-matrix) |
+| [0763-special-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/0763-special-binary-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/7amo10/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-special-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/0763-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/7amo10/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1306-minimum-absolute-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/7amo10/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0763-special-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/0763-special-binary-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
