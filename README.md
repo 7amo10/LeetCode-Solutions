@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/7amo10/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/7amo10/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0679-24-game) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/7amo10/LeetCode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/7amo10/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/7amo10/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0867-new-21-game) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/7amo10/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/7amo10/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/0757-pyramid-transition-matrix) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/7amo10/LeetCode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/7amo10/LeetCode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
