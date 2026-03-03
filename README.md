@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/7amo10/LeetCode-Solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/7amo10/LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/7amo10/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/7amo10/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/7amo10/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/7amo10/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/7amo10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/7amo10/LeetCode-Solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/7amo10/LeetCode-Solutions/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2058-concatenation-of-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
