@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1813-maximum-erasure-value](https://github.com/7amo10/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/7amo10/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/7amo10/LeetCode-Solutions/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/7amo10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/7amo10/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/7amo10/LeetCode-Solutions/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1917-maximum-average-pass-ratio](https://github.com/7amo10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/7amo10/LeetCode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/7amo10/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/7amo10/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/7amo10/LeetCode-Solutions/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/7amo10/LeetCode-Solutions/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/7amo10/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
