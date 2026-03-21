@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-trionic-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/3958-minimum-removals-to-balance-array) |
+| [3973-flip-square-submatrix-vertically](https://github.com/7amo10/LeetCode-Solutions/tree/master/3973-flip-square-submatrix-vertically) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/7amo10/LeetCode-Solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/7amo10/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/7amo10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3973-flip-square-submatrix-vertically](https://github.com/7amo10/LeetCode-Solutions/tree/master/3973-flip-square-submatrix-vertically) |
 ## Linked List
 |  |
 | ------- |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/7amo10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3973-flip-square-submatrix-vertically](https://github.com/7amo10/LeetCode-Solutions/tree/master/3973-flip-square-submatrix-vertically) |
 ## Probability and Statistics
 |  |
 | ------- |
