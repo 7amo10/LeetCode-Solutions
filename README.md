@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/7amo10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/7amo10/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3849-equal-sum-grid-partition-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3849-equal-sum-grid-partition-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/7amo10/LeetCode-Solutions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3849-equal-sum-grid-partition-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3849-equal-sum-grid-partition-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/7amo10/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/7amo10/LeetCode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/7amo10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/7amo10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3849-equal-sum-grid-partition-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3849-equal-sum-grid-partition-i) |
 | [4055-longest-balanced-substring-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Memoization
 |  |
@@ -876,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/7amo10/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/7amo10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3849-equal-sum-grid-partition-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3973-flip-square-submatrix-vertically](https://github.com/7amo10/LeetCode-Solutions/tree/master/3973-flip-square-submatrix-vertically) |
