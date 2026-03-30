@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-minimum-penalty-for-a-shop](https://github.com/7amo10/LeetCode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2708-find-the-string-with-lcp](https://github.com/7amo10/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [2887-sort-vowels-in-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
