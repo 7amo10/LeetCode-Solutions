@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/7amo10/LeetCode-Solutions/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/7amo10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/7amo10/LeetCode-Solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2317-count-collisions-on-a-road](https://github.com/7amo10/LeetCode-Solutions/tree/master/2317-count-collisions-on-a-road) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/7amo10/LeetCode-Solutions/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2317-count-collisions-on-a-road](https://github.com/7amo10/LeetCode-Solutions/tree/master/2317-count-collisions-on-a-road) |
