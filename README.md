@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/7amo10/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/7amo10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/7amo10/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0906-walking-robot-simulation](https://github.com/7amo10/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/7amo10/LeetCode-Solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/7amo10/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/7amo10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/7amo10/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/7amo10/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/7amo10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/7amo10/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/7amo10/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/7amo10/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [0906-walking-robot-simulation](https://github.com/7amo10/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/7amo10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/7amo10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
