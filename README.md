@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
+| [2178-walking-robot-simulation-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/7amo10/LeetCode-Solutions/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
+| [2178-walking-robot-simulation-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/2178-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/7amo10/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/7amo10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
