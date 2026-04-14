@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/7amo10/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2554-minimum-total-distance-traveled](https://github.com/7amo10/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2708-find-the-string-with-lcp](https://github.com/7amo10/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/7amo10/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2529-range-product-queries-of-powers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2554-minimum-total-distance-traveled](https://github.com/7amo10/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/7amo10/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/7amo10/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/7amo10/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2554-minimum-total-distance-traveled](https://github.com/7amo10/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2689-rearranging-fruits](https://github.com/7amo10/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2846-robot-collisions](https://github.com/7amo10/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
