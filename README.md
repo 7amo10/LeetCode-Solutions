@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/7amo10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/7amo10/LeetCode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/7amo10/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/7amo10/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/7amo10/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/7amo10/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2164-two-best-non-overlapping-events](https://github.com/7amo10/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/7amo10/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/7amo10/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/7amo10/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
