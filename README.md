@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1694-make-sum-divisible-by-p](https://github.com/7amo10/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/7amo10/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7amo10/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/7amo10/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/7amo10/LeetCode-Solutions/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/7amo10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/7amo10/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/7amo10/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/7amo10/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
@@ -1097,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2708-find-the-string-with-lcp](https://github.com/7amo10/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/7amo10/LeetCode-Solutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
