@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/7amo10/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/7amo10/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/7amo10/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0804-rotated-digits](https://github.com/7amo10/LeetCode-Solutions/tree/master/0804-rotated-digits) |
 | [0815-champagne-tower](https://github.com/7amo10/LeetCode-Solutions/tree/master/0815-champagne-tower) |
 | [0826-soup-servings](https://github.com/7amo10/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0867-new-21-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/7amo10/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/7amo10/LeetCode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0804-rotated-digits](https://github.com/7amo10/LeetCode-Solutions/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/7amo10/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/7amo10/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0867-new-21-game) |
