@@ -822,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/7amo10/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0908-middle-of-the-linked-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/7amo10/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
