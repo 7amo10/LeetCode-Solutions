@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-largest-submatrix-with-rearrangements](https://github.com/7amo10/LeetCode-Solutions/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/7amo10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1972-rotating-the-box](https://github.com/7amo10/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/7amo10/LeetCode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/7amo10/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1972-rotating-the-box](https://github.com/7amo10/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/7amo10/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/7amo10/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/7amo10/LeetCode-Solutions/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1972-rotating-the-box](https://github.com/7amo10/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/7amo10/LeetCode-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
