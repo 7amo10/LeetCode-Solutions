@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/7amo10/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/7amo10/LeetCode-Solutions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/7amo10/LeetCode-Solutions/tree/master/4168-mirror-distance-of-an-integer) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-minimum-cost-path-with-teleportations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/7amo10/LeetCode-Solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/7amo10/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3934-coupon-code-validator](https://github.com/7amo10/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3956-trionic-array-ii) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3885-count-special-triplets](https://github.com/7amo10/LeetCode-Solutions/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/7amo10/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3934-coupon-code-validator](https://github.com/7amo10/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
@@ -1037,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/7amo10/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/7amo10/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1058,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-last-day-where-you-can-still-cross](https://github.com/7amo10/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/7amo10/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/7amo10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/7amo10/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
