@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3396-valid-word](https://github.com/7amo10/LeetCode-Solutions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/7amo10/LeetCode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/7amo10/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/7amo10/LeetCode-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/7amo10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/7amo10/LeetCode-Solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/7amo10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/7amo10/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -908,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/7amo10/LeetCode-Solutions/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Function
 |  |
 | ------- |
