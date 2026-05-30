@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/7amo10/LeetCode-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3376-longest-common-suffix-queries](https://github.com/7amo10/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/7amo10/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3435-block-placement-queries](https://github.com/7amo10/LeetCode-Solutions/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/7amo10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/7amo10/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/7amo10/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2634-minimum-common-value](https://github.com/7amo10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
+| [3435-block-placement-queries](https://github.com/7amo10/LeetCode-Solutions/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/7amo10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1728-fancy-sequence](https://github.com/7amo10/LeetCode-Solutions/tree/master/1728-fancy-sequence) |
+| [3435-block-placement-queries](https://github.com/7amo10/LeetCode-Solutions/tree/master/3435-block-placement-queries) |
 | [3775-separate-squares-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/7amo10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -1208,4 +1211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3770-lexicographically-smallest-generated-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/7amo10/LeetCode-Solutions/tree/master/3435-block-placement-queries) |
 <!---LeetCode Topics End-->
