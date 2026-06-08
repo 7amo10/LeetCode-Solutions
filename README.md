@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2178-walking-robot-simulation-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/7amo10/LeetCode-Solutions/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/7amo10/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2317-count-collisions-on-a-road](https://github.com/7amo10/LeetCode-Solutions/tree/master/2317-count-collisions-on-a-road) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/7amo10/LeetCode-Solutions/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/7amo10/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/7amo10/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/7amo10/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/7amo10/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/7amo10/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/7amo10/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/7amo10/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/7amo10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
