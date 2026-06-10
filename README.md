@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/7amo10/LeetCode-Solutions/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4005-maximum-total-subarray-value-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4005-maximum-total-subarray-value-i) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4005-maximum-total-subarray-value-i) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/7amo10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/7amo10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 ## Backtracking
