@@ -925,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/7amo10/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/7amo10/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/7amo10/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/7amo10/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0908-middle-of-the-linked-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/7amo10/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/7amo10/LeetCode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
