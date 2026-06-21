@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/7amo10/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/7amo10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1961-maximum-ice-cream-bars](https://github.com/7amo10/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/7amo10/LeetCode-Solutions/tree/master/1968-maximum-building-height) |
 | [1972-rotating-the-box](https://github.com/7amo10/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/7amo10/LeetCode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/7amo10/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/7amo10/LeetCode-Solutions/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1917-maximum-average-pass-ratio](https://github.com/7amo10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1961-maximum-ice-cream-bars](https://github.com/7amo10/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/7amo10/LeetCode-Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/7amo10/LeetCode-Solutions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/7amo10/LeetCode-Solutions/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1961-maximum-ice-cream-bars](https://github.com/7amo10/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/7amo10/LeetCode-Solutions/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1278,4 +1281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3435-block-placement-queries](https://github.com/7amo10/LeetCode-Solutions/tree/master/3435-block-placement-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/7amo10/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
