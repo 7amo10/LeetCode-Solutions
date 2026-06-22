@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/7amo10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/7amo10/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1297-maximum-number-of-balloons](https://github.com/7amo10/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7amo10/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/7amo10/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/7amo10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/7amo10/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1297-maximum-number-of-balloons](https://github.com/7amo10/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/7amo10/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1447-jump-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/7amo10/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1297-maximum-number-of-balloons](https://github.com/7amo10/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/7amo10/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
