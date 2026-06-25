@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4007-maximum-total-subarray-value-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/7amo10/LeetCode-Solutions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4056-longest-balanced-substring-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/7amo10/LeetCode-Solutions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/7amo10/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/7amo10/LeetCode-Solutions/tree/master/3885-count-special-triplets) |
 | [4055-longest-balanced-substring-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4055-longest-balanced-substring-i) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
 | ------- |
@@ -1045,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4007-maximum-total-subarray-value-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -1258,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4047-longest-balanced-subarray-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1292,4 +1298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/7amo10/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
