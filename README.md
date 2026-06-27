@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/7amo10/LeetCode-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/7amo10/LeetCode-Solutions/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/7amo10/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/7amo10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/7amo10/LeetCode-Solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/7amo10/LeetCode-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/7amo10/LeetCode-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
