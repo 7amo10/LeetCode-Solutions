@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/7amo10/LeetCode-Solutions/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/7amo10/LeetCode-Solutions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2892-check-if-array-is-good](https://github.com/7amo10/LeetCode-Solutions/tree/master/2892-check-if-array-is-good) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3031-construct-product-matrix) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/7amo10/LeetCode-Solutions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/7amo10/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/7amo10/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2634-minimum-common-value](https://github.com/7amo10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3435-block-placement-queries](https://github.com/7amo10/LeetCode-Solutions/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/7amo10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1131,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/7amo10/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2708-find-the-string-with-lcp](https://github.com/7amo10/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/7amo10/LeetCode-Solutions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1212,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/7amo10/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/7amo10/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/7amo10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/7amo10/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
@@ -1295,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2708-find-the-string-with-lcp](https://github.com/7amo10/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/7amo10/LeetCode-Solutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
