@@ -1013,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-last-day-where-you-can-still-cross](https://github.com/7amo10/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/7amo10/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/7amo10/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/7amo10/LeetCode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/7amo10/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/7amo10/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/7amo10/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/7amo10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -1271,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/7amo10/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -1311,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/7amo10/LeetCode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2708-find-the-string-with-lcp](https://github.com/7amo10/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/7amo10/LeetCode-Solutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
