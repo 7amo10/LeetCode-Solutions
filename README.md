@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/7amo10/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/7amo10/LeetCode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/7amo10/LeetCode-Solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/7amo10/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-equal-sum-grid-partition-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/7amo10/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/7amo10/LeetCode-Solutions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/7amo10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-lexicographically-smallest-generated-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/7amo10/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/7amo10/LeetCode-Solutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -844,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/7amo10/LeetCode-Solutions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3819-count-covered-buildings](https://github.com/7amo10/LeetCode-Solutions/tree/master/3819-count-covered-buildings) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3934-coupon-code-validator](https://github.com/7amo10/LeetCode-Solutions/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/3958-minimum-removals-to-balance-array) |
@@ -914,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/7amo10/LeetCode-Solutions/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/7amo10/LeetCode-Solutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3919-network-recovery-pathways](https://github.com/7amo10/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -990,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/7amo10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/7amo10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/7amo10/LeetCode-Solutions/tree/master/3973-flip-square-submatrix-vertically) |
@@ -1290,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/7amo10/LeetCode-Solutions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3919-network-recovery-pathways](https://github.com/7amo10/LeetCode-Solutions/tree/master/3919-network-recovery-pathways) |
