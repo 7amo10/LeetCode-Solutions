@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/7amo10/LeetCode-Solutions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/7amo10/LeetCode-Solutions/tree/master/4168-mirror-distance-of-an-integer) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/7amo10/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3939-process-string-with-special-operations-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3939-process-string-with-special-operations-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4216-weighted-word-mapping](https://github.com/7amo10/LeetCode-Solutions/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/7amo10/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/7amo10/LeetCode-Solutions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4216-weighted-word-mapping](https://github.com/7amo10/LeetCode-Solutions/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/7amo10/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/7amo10/LeetCode-Solutions/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/7amo10/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1008,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/7amo10/LeetCode-Solutions/tree/master/3973-flip-square-submatrix-vertically) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/7amo10/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -1232,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/7amo10/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/7amo10/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/7amo10/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
