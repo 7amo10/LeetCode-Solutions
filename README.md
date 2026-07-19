@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/7amo10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/7amo10/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/7amo10/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/7amo10/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/7amo10/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/7amo10/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1285-balance-a-binary-search-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/7amo10/LeetCode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
@@ -1077,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/7amo10/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/7amo10/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -1211,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/7amo10/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
