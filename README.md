@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/7amo10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/7amo10/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/7amo10/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
+| [1386-shift-2d-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/7amo10/LeetCode-Solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/7amo10/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-largest-magic-square](https://github.com/7amo10/LeetCode-Solutions/tree/master/1311-largest-magic-square) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7amo10/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/7amo10/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1386-shift-2d-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/7amo10/LeetCode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1395-minimum-time-visiting-all-points](https://github.com/7amo10/LeetCode-Solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1163,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1234-number-of-paths-with-max-score](https://github.com/7amo10/LeetCode-Solutions/tree/master/1234-number-of-paths-with-max-score) |
 | [1311-largest-magic-square](https://github.com/7amo10/LeetCode-Solutions/tree/master/1311-largest-magic-square) |
+| [1386-shift-2d-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/7amo10/LeetCode-Solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
