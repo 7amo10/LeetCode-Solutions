@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/7amo10/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 | [3396-valid-word](https://github.com/7amo10/LeetCode-Solutions/tree/master/3396-valid-word) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/7amo10/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/7amo10/LeetCode-Solutions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/7amo10/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2708-find-the-string-with-lcp](https://github.com/7amo10/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/7amo10/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/7amo10/LeetCode-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/7amo10/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
