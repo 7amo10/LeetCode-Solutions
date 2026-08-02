@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-champagne-tower](https://github.com/7amo10/LeetCode-Solutions/tree/master/0815-champagne-tower) |
 | [0826-soup-servings](https://github.com/7amo10/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0867-new-21-game) |
+| [0909-stone-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/7amo10/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/7amo10/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [0909-stone-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/7amo10/LeetCode-Solutions/tree/master/1284-four-divisors) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/7amo10/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/7amo10/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
+| [0909-stone-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/7amo10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/7amo10/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
@@ -1282,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/7amo10/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0909-stone-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
