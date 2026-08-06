@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/7amo10/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/7amo10/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/7amo10/LeetCode-Solutions/tree/master/3721-count-mentions-per-user) |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/7amo10/LeetCode-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/7amo10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
