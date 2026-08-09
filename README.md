@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/7amo10/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1234-number-of-paths-with-max-score](https://github.com/7amo10/LeetCode-Solutions/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/7amo10/LeetCode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/7amo10/LeetCode-Solutions/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1311-largest-magic-square](https://github.com/7amo10/LeetCode-Solutions/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/7amo10/LeetCode-Solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1694-make-sum-divisible-by-p](https://github.com/7amo10/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/7amo10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1240-stone-game-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/7amo10/LeetCode-Solutions/tree/master/1284-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/7amo10/LeetCode-Solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/7amo10/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/7amo10/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1222-remove-covered-intervals](https://github.com/7amo10/LeetCode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/7amo10/LeetCode-Solutions/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/7amo10/LeetCode-Solutions/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
@@ -1303,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/7amo10/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
@@ -1475,9 +1480,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
