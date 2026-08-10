@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/7amo10/LeetCode-Solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7amo10/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/7amo10/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-angle-between-hands-of-a-clock](https://github.com/7amo10/LeetCode-Solutions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/7amo10/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1522-stone-game-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/7amo10/LeetCode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/7amo10/LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/7amo10/LeetCode-Solutions/tree/master/1642-water-bottles) |
@@ -1309,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 | [3462-vowels-game-in-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -1482,9 +1485,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1240-stone-game-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
