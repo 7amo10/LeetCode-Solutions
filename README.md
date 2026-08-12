@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-construct-product-matrix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3031-construct-product-matrix) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/7amo10/LeetCode-Solutions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/7amo10/LeetCode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2892-check-if-array-is-good](https://github.com/7amo10/LeetCode-Solutions/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/7amo10/LeetCode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/7amo10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/7amo10/LeetCode-Solutions/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/7amo10/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/7amo10/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/7amo10/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/7amo10/LeetCode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1499,7 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
-## SpragueÃ¢ÂÂGrundy Theorem
+## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
