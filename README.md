@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/7amo10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/7amo10/LeetCode-Solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2317-count-collisions-on-a-road](https://github.com/7amo10/LeetCode-Solutions/tree/master/2317-count-collisions-on-a-road) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/7amo10/LeetCode-Solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/7amo10/LeetCode-Solutions/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/7amo10/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/7amo10/LeetCode-Solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/7amo10/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1179,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1728-fancy-sequence](https://github.com/7amo10/LeetCode-Solutions/tree/master/1728-fancy-sequence) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/7amo10/LeetCode-Solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3435-block-placement-queries](https://github.com/7amo10/LeetCode-Solutions/tree/master/3435-block-placement-queries) |
 | [3775-separate-squares-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/7amo10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -1213,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/7amo10/LeetCode-Solutions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2429-design-a-food-rating-system](https://github.com/7amo10/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/7amo10/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -1502,7 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
