@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/7amo10/LeetCode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3376-longest-common-suffix-queries](https://github.com/7amo10/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 | [3396-valid-word](https://github.com/7amo10/LeetCode-Solutions/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/7amo10/LeetCode-Solutions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/7amo10/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/7amo10/LeetCode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/7amo10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/7amo10/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/7amo10/LeetCode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/7amo10/LeetCode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/7amo10/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1506,7 +1509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/7amo10/LeetCode-Solutions/tree/master/1617-stone-game-iv) |
