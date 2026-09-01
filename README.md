@@ -6,6 +6,7 @@
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -22,4 +23,20 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/7amo10/LeetCode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Hash Table
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
