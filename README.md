@@ -9,6 +9,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4284-smallest-stable-index-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -46,4 +47,8 @@
 | ------- |
 | [4256-construct-uniform-parity-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [4284-smallest-stable-index-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4284-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
