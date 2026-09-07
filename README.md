@@ -57,8 +57,10 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/7amo10/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0977-distinct-subsequences-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/7amo10/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0977-distinct-subsequences-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
