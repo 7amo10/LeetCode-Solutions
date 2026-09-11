@@ -6,6 +6,7 @@
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3799-unique-3-digit-even-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -77,4 +79,12 @@
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/7amo10/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
