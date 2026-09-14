@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/7amo10/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [4245-count-commas-in-range](https://github.com/7amo10/LeetCode-Solutions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/7amo10/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
