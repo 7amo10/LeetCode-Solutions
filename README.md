@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/7amo10/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/7amo10/LeetCode-Solutions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7amo10/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4245-count-commas-in-range](https://github.com/7amo10/LeetCode-Solutions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4248-count-commas-in-range-ii) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/7amo10/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/7amo10/LeetCode-Solutions/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Two Pointers
 |  |
 | ------- |
