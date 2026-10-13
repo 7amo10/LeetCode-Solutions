@@ -20,6 +20,7 @@
 | [3840-find-x-value-of-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/7amo10/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/7amo10/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4256-construct-uniform-parity-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4284-smallest-stable-index-i) |
@@ -35,6 +36,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/7amo10/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/7amo10/LeetCode-Solutions/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/7amo10/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
