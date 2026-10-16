@@ -12,6 +12,7 @@
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/7amo10/LeetCode-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/7amo10/LeetCode-Solutions/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -61,6 +62,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/7amo10/LeetCode-Solutions/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
@@ -191,6 +193,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 ## Backtracking
@@ -235,5 +238,6 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
