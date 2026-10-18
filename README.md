@@ -6,6 +6,7 @@
 | ------- |
 | [0864-image-overlap](https://github.com/7amo10/LeetCode-Solutions/tree/master/0864-image-overlap) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -31,6 +32,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -92,6 +94,7 @@
 | ------- |
 | [0866-rectangle-overlap](https://github.com/7amo10/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/7amo10/LeetCode-Solutions/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7amo10/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3831-find-x-value-of-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
@@ -138,6 +141,7 @@
 | [0678-valid-parenthesis-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0977-distinct-subsequences-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7amo10/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/7amo10/LeetCode-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -146,6 +150,7 @@
 ## Tree
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/7amo10/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -154,6 +159,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/7amo10/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -183,6 +189,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7amo10/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sliding Window
 |  |
@@ -243,4 +250,20 @@
 | ------- |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
