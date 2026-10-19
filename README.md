@@ -9,6 +9,7 @@
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/7amo10/LeetCode-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -175,6 +177,7 @@
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
