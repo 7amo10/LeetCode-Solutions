@@ -27,6 +27,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/7amo10/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4256-construct-uniform-parity-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/7amo10/LeetCode-Solutions/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4285-smallest-stable-index-ii) |
@@ -45,6 +46,7 @@
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/7amo10/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4257-sum-of-sortable-integers](https://github.com/7amo10/LeetCode-Solutions/tree/master/4257-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [4245-count-commas-in-range](https://github.com/7amo10/LeetCode-Solutions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/7amo10/LeetCode-Solutions/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
@@ -172,6 +175,7 @@
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
+| [4257-sum-of-sortable-integers](https://github.com/7amo10/LeetCode-Solutions/tree/master/4257-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
