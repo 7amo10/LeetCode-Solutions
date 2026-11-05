@@ -8,6 +8,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0864-image-overlap](https://github.com/7amo10/LeetCode-Solutions/tree/master/0864-image-overlap) |
 | [1380-number-of-closed-islands](https://github.com/7amo10/LeetCode-Solutions/tree/master/1380-number-of-closed-islands) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1188-brace-expansion-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/1188-brace-expansion-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -219,6 +221,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -232,6 +235,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
