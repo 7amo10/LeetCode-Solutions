@@ -37,6 +37,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3938-twisted-mirror-path-count](https://github.com/7amo10/LeetCode-Solutions/tree/master/3938-twisted-mirror-path-count) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/7amo10/LeetCode-Solutions/tree/master/3950-maximum-k-to-sort-a-permutation) |
+| [4041-climbing-stairs-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4041-climbing-stairs-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/7amo10/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/7amo10/LeetCode-Solutions/tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -198,6 +199,7 @@
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/7amo10/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3831-find-x-value-of-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
 | [3938-twisted-mirror-path-count](https://github.com/7amo10/LeetCode-Solutions/tree/master/3938-twisted-mirror-path-count) |
+| [4041-climbing-stairs-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4041-climbing-stairs-ii) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
