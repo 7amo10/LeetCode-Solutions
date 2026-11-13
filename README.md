@@ -28,6 +28,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/7amo10/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/7amo10/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -263,6 +264,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2833-count-zero-request-servers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2833-count-zero-request-servers) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/7amo10/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
 |  |
@@ -274,6 +276,7 @@
 | ------- |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3840-find-x-value-of-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Backtracking
@@ -296,6 +299,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/7amo10/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/7amo10/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -358,4 +362,16 @@
 |  |
 | ------- |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/7amo10/LeetCode-Solutions/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
