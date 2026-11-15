@@ -11,6 +11,7 @@
 | [1396-count-servers-that-communicate](https://github.com/7amo10/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/7amo10/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/7amo10/LeetCode-Solutions/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -140,6 +141,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0866-rectangle-overlap](https://github.com/7amo10/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/7amo10/LeetCode-Solutions/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7amo10/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2496-count-days-spent-together](https://github.com/7amo10/LeetCode-Solutions/tree/master/2496-count-days-spent-together) |
@@ -158,6 +160,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7amo10/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/7amo10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/7amo10/LeetCode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
@@ -197,6 +200,7 @@
 | [0678-valid-parenthesis-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0977-distinct-subsequences-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7amo10/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/7amo10/LeetCode-Solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
