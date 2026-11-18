@@ -189,6 +189,7 @@
 | [2496-count-days-spent-together](https://github.com/7amo10/LeetCode-Solutions/tree/master/2496-count-days-spent-together) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/7amo10/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/7amo10/LeetCode-Solutions/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/7amo10/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3811-reverse-degree-of-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/7amo10/LeetCode-Solutions/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/7amo10/LeetCode-Solutions/tree/master/4209-palindromic-path-queries-in-a-tree) |
