@@ -35,6 +35,7 @@
 | [3576-find-subtree-sizes-after-changes](https://github.com/7amo10/LeetCode-Solutions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3644-minimum-positive-sum-subarray](https://github.com/7amo10/LeetCode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/7amo10/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/7amo10/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/7amo10/LeetCode-Solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -154,6 +155,7 @@
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7amo10/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2496-count-days-spent-together](https://github.com/7amo10/LeetCode-Solutions/tree/master/2496-count-days-spent-together) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/7amo10/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/7amo10/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3831-find-x-value-of-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/3840-find-x-value-of-array-ii) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/7amo10/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/7amo10/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3799-unique-3-digit-even-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [4257-sum-of-sortable-integers](https://github.com/7amo10/LeetCode-Solutions/tree/master/4257-sum-of-sortable-integers) |
 ## Binary Search
@@ -292,6 +295,7 @@
 | [2833-count-zero-request-servers](https://github.com/7amo10/LeetCode-Solutions/tree/master/2833-count-zero-request-servers) |
 | [3644-minimum-positive-sum-subarray](https://github.com/7amo10/LeetCode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/7amo10/LeetCode-Solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/7amo10/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/7amo10/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
 |  |
@@ -410,4 +414,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/7amo10/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
