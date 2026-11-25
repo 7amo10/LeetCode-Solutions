@@ -48,6 +48,7 @@
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/7amo10/LeetCode-Solutions/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4041-climbing-stairs-ii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4041-climbing-stairs-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/7amo10/LeetCode-Solutions/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4105-smallest-unique-subarray](https://github.com/7amo10/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/7amo10/LeetCode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/7amo10/LeetCode-Solutions/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/7amo10/LeetCode-Solutions/tree/master/4205-minimum-xor-path-in-a-grid) |
@@ -115,6 +116,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/7amo10/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/7amo10/LeetCode-Solutions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/7amo10/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [4105-smallest-unique-subarray](https://github.com/7amo10/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/7amo10/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/7amo10/LeetCode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/7amo10/LeetCode-Solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [4105-smallest-unique-subarray](https://github.com/7amo10/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
 ## Geometry
 |  |
 | ------- |
@@ -418,4 +421,16 @@
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/7amo10/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/7amo10/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/7amo10/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/7amo10/LeetCode-Solutions/tree/master/4105-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
