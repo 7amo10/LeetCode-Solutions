@@ -157,6 +157,7 @@
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7amo10/LeetCode-Solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/7amo10/LeetCode-Solutions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2496-count-days-spent-together](https://github.com/7amo10/LeetCode-Solutions/tree/master/2496-count-days-spent-together) |
+| [3625-stone-removal-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/3625-stone-removal-game) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/7amo10/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/7amo10/LeetCode-Solutions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3831-find-x-value-of-array-i](https://github.com/7amo10/LeetCode-Solutions/tree/master/3831-find-x-value-of-array-i) |
@@ -305,6 +306,7 @@
 | ------- |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/7amo10/LeetCode-Solutions/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [3625-stone-removal-game](https://github.com/7amo10/LeetCode-Solutions/tree/master/3625-stone-removal-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/7amo10/LeetCode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
